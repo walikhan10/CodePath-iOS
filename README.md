@@ -30,7 +30,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+<a href="https://gyazo.com/85d791926fb1d1106e8fb60113bf504f"><img src="https://i.gyazo.com/85d791926fb1d1106e8fb60113bf504f.gif" alt="Image from Gyazo" title='Video Walkthrough' width='' alt='Video Walkthrough'/></a>
+
+GIF created with [Gyazo](https://gyazo.com/).
 
 ## Notes
 
